@@ -22,6 +22,15 @@
             <version>2.0.0-Beta4</version>
         </dependency>
 
-    </dependencies>
 
+        <!-- https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core -->
+        <dependency>
+            <groupId>org.jetbrains.kotlinx</groupId>
+            <artifactId>kotlinx-coroutines-core</artifactId>
+            <version>1.8.0</version>
+            <type>pom</type>
+        </dependency>
+
+
+    </dependencies>
 </project>
